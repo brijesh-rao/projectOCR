@@ -11,7 +11,7 @@ Identified the necessary dataasets, to use for training a neural network.
 Extracted and pre-processed the data
 Choose a CNN architecture to train the model.
 
-## TOODO:
+## TODO:
 
 Train a classifier using a CNN to classify text in a image to alphanumeric symbols.
 Create a mobile app with a camera to capture images, and detect and recognise if text is present in them.
