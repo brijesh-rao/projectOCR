@@ -10,9 +10,8 @@ COCO-text https://vision.cornell.edu/se3/coco-text-2/, MNIST http://yann.lecun.c
 Identified the necessary dataasets, to use for training a neural network.
 Extracted and pre-processed the data
 Choose a CNN architecture to train the model.
-
-## TODO:
-
 Train a classifier using a CNN to classify text in a image to alphanumeric symbols.
+
+## Future Work:
 Create a mobile app with a camera to capture images, and detect and recognise if text is present in them.
 Extreact text in an image and create a text file containing the digits.
